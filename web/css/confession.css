@@ -1,0 +1,33 @@
+@charset "utf-8";
+body {
+	background-color: #FFCCFF;
+}
+#typing {
+	color: blue;
+	font-size: 200%;
+}
+#div {
+	height: 50px;
+	width: 164px;
+	position: absolute;
+	top: 500px;
+	left: 600px;
+}
+#div_yes, #div_no {
+	height: 50px;
+	width: 80px;
+	float: left;
+}
+input {
+	height: 50px;
+	width: 80px;
+}
+img {
+	position: absolute;
+	top: 200px;
+	left: 560px;
+}
+p {
+	width: 860px;
+	margin: auto;
+}
