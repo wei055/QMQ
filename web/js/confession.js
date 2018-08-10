@@ -32,7 +32,7 @@ $(document).ready(function() {
 	setTimeout("typing()", 3000);
 });
 		
-var text = "嘿嘿......... 猪猪... 我... 喜欢你...... 做我女盆友吧！ 直接关窗口是小猪哦 ^_^...";
+var text = "嘿嘿......... 猪猪... 我... 喜欢你...... 做我女盆友呗！ 直接关窗口是小猪哦 ^_^...";
 var index = 0;
 var id;
 function typing() {
