@@ -31,7 +31,7 @@ function login() {
 				case 2: prompt.innerHTML = "咋啦？自己生日都记不住吗？"; break;
 				case 3: prompt.innerHTML = "还是不对哦"; break;
 				case 4: prompt.innerHTML = "多点几次登录吧"; break;
-				case 8: prompt.innerHTML = "难道不是19940506吗^_^"; break;
+				case 8: prompt.innerHTML = "难道不是19930506吗^_^"; break;
 			}
 		}else {
 			setTimeout("location.href = 'web/confession.html'", 2000);
