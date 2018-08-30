@@ -25,7 +25,7 @@ function login() {
 		prompt.innerHTML = "请先选择生日再登录喔";
 		int = 0;
 	}else {
-		if(date != "1994-05-06") {
+		if(date != "1993-05-06") {
 			switch(int) {
 				case 1: prompt.innerHTML = "不对不对~农历生日啦^_^"; break;
 				case 2: prompt.innerHTML = "咋啦？自己生日都记不住吗？"; break;
